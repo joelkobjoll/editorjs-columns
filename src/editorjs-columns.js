@@ -106,7 +106,7 @@ class EditorJsColumns {
 
     let buttonFourCols_Button = document.createElement("div");
     buttonThreeCols_Button.classList.add("cdx-settings-button");
-    buttonThreeCols_Button.innerHTML = buttonThreeCols.icon;
+    buttonThreeCols_Button.innerHTML = buttonFourCols.icon;
 
     let buttonRollCols_Button = document.createElement("div");
     buttonRollCols_Button.classList.add("cdx-settings-button");
